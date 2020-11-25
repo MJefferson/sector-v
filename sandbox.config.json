@@ -1,5 +1,6 @@
 {
-  "infiniteLoopProtection": true,
+  "infiniteLoopProtection": false,
   "hardReloadOnChange": false,
-  "view": "browser"
+  "view": "browser",
+  "template": "react"
 }
